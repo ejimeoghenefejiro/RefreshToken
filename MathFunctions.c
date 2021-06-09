@@ -13,3 +13,7 @@ int multiply(int firstNumber, int secondNumber)
 {
     return firstNumber * secondNumber;
 }
+int divide(int firstNumber, int secondNumber)
+{
+    return firstNumber / secondNumber;
+}
