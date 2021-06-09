@@ -5,5 +5,6 @@ int main()
     print("Result: %d", add(5 +2 ));
      print("Result: %d", subtract(5 +2 ));
       print("Result: %d", multiply(5 +2 ));
+     print("Result: %d", Divide(5 +2 ));
     return 0;
 }
